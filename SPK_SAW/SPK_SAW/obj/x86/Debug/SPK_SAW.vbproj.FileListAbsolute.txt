@@ -1,0 +1,37 @@
+C:\Randy File\Project VB.Net\SPK SAW\SPK_SAW\SPK_SAW\bin\Debug\SPK_SAW.exe
+C:\Randy File\Project VB.Net\SPK SAW\SPK_SAW\SPK_SAW\bin\Debug\SPK_SAW.pdb
+C:\Randy File\Project VB.Net\SPK SAW\SPK_SAW\SPK_SAW\bin\Debug\SPK_SAW.xml
+C:\Randy File\Project VB.Net\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.Resources.resources
+C:\Randy File\Project VB.Net\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.vbproj.GenerateResource.Cache
+C:\Randy File\Project VB.Net\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.exe
+C:\Randy File\Project VB.Net\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.xml
+C:\Randy File\Project VB.Net\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.pdb
+C:\Randy File\Project VB.Net\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.FormMenuUtama.resources
+C:\Randy File\Project VB.Net\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.FormKriteria.resources
+C:\Randy File\Project VB.Net\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.FormTempat.resources
+C:\Randy File\Project VB.Net\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.FormPenilaian.resources
+C:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.exe
+C:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.xml
+C:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.pdb
+C:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\bin\Debug\SPK_SAW.exe
+C:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\bin\Debug\SPK_SAW.pdb
+C:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\bin\Debug\SPK_SAW.xml
+C:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.FormKriteria.resources
+C:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.FormMenuUtama.resources
+C:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.FormPenilaian.resources
+C:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.FormTempat.resources
+C:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.Resources.resources
+C:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.vbproj.GenerateResource.Cache
+E:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.exe
+E:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.xml
+E:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.pdb
+E:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\bin\Debug\SPK_SAW.exe
+E:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\bin\Debug\SPK_SAW.pdb
+E:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\bin\Debug\SPK_SAW.xml
+E:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.vbprojResolveAssemblyReference.cache
+E:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.FormKriteria.resources
+E:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.FormMenuUtama.resources
+E:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.FormPenilaian.resources
+E:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.FormTempat.resources
+E:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.Resources.resources
+E:\Randy File\Project VB.Net\1. Old Program\SPK SAW\SPK_SAW\SPK_SAW\obj\x86\Debug\SPK_SAW.vbproj.GenerateResource.Cache
